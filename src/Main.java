@@ -8,6 +8,10 @@ public class Main {
         System.out.println("Hello Mariusz!");
         System.out.println("Hello Mariusz!");
 
+
+        System.out.println("scio me nihil scire");
+
+
         //sout
         System.out.println(2+2);
     }
