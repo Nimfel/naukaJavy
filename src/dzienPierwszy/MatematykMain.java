@@ -18,6 +18,19 @@ public class MatematykMain {
         System.out.println("A wynik odejmowania to: ");
         System.out.println(subtraction);
 
+        float multiply = blondynka.multiply (4, 5);
+        System.out.println("wynik mnożenia to:");
+        System.out.println(multiply);
+
+        double division = blondynka.division(10, 2.5);
+        System.out.println("wynik dzielenia to:");
+        System.out.println(division);
+
+
+
+
+
+
 
     }
 
