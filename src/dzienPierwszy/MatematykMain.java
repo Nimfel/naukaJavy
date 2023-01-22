@@ -8,7 +8,8 @@ public class MatematykMain {
         Matematyk blondynka = new Matematyk();
 
         double multiply = blondynka.multiply(3, 5);
-        double division = blondynka.division((3*5),')'2);
+        double division;
+        division = 2 / blondynka.division(3 * 5);
 
         System.out.println("pole trójkąta wynosi:");
         System.out.println(division);
