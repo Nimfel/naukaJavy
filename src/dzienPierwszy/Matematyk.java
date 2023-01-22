@@ -2,22 +2,20 @@ package dzienPierwszy;
 
 public class Matematyk {
 
-
-    public double add(double firstParameter, double secondParameter) {
-        return firstParameter + secondParameter;
-    }
-
-    public double subtraction(double firstParameter, double secondParameter) {
-        return firstParameter - secondParameter;
-    }
-
-    public float multiply(float firstParameter, float secondParameter) {
+    public double multiply (double firstParameter, double secondParameter){
         return firstParameter * secondParameter;
     }
+        public double division (double firstParameter * double secondParameter) {
+        return thirdParameter = (firstParameter * secondParameter)
 
-    public double division (double firstParameter, double secondParameter) {
-        return firstParameter / secondParameter;
-    }
+        }
+
+
+
+
+
+
+
 
 
 
