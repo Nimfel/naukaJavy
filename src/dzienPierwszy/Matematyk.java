@@ -2,26 +2,26 @@ package dzienPierwszy;
 
 public class Matematyk {
 
-    public double multiply(double a, double h) {
-        return 0;
+    public float multiply(float a, float h) {
+        return(a*h);
     }
 
-    public double division (double x) {
-        return x;
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
+    public double division (double z, double x) {
+        return (z/x);
     }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

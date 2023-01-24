@@ -10,9 +10,11 @@ public class MatematykMain {
 
         int a = 3;
         int h = 5;
+        int z = ( a * h );
+        int x = 2;
 
-        double multiply = blondynka.multiply( a * h );
-        double division = blondynka.division((a * h) / 2);
+        float multiply = blondynka.multiply(a,h);
+        double division = blondynka.division(z,x);
 
 
         System.out.println("pole trójkąta wynosi:");
