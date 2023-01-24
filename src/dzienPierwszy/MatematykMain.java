@@ -7,9 +7,13 @@ public class MatematykMain {
 
         Matematyk blondynka = new Matematyk();
 
-        double multiply = blondynka.multiply(3, 5);
-        double division;
-        division = 2 / blondynka.division(3 * 5);
+
+        int a = 3;
+        int h = 5;
+
+        double multiply = blondynka.multiply( a * h );
+        double division = blondynka.division((a * h) / 2);
+
 
         System.out.println("pole trójkąta wynosi:");
         System.out.println(division);
