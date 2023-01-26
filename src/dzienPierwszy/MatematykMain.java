@@ -8,22 +8,14 @@ public class MatematykMain {
         Matematyk blondynka = new Matematyk();
 
 
-        int a = 15;
-        int b = 25;
-        int c = (a+b);
+        int a = 10;
         int h = 5;
-        int d = c*h;
-        int x = 2;
 
-        float add = blondynka.add(a,b);
-        double multiply = blondynka.multiply(c,h);
-        double division = blondynka.division(d,x);
+        double multiply = blondynka.multiply(a,h);
 
 
-
-
-        System.out.println("pole trapezu wynosi:");
-        System.out.println(division);
+        System.out.println("pole rombu wynosi:");
+        System.out.println(multiply);
 
 
 
