@@ -3,8 +3,12 @@ package dzienPierwszy;
 public class Matematyk {
 
 
-    public float multiply (float a, float h) {
-        return (a*h);
+
+    public double multiply (double r) {
+        return (r*r);
+    }
+    public double multiply (double z, double pi) {
+        return (z*pi);
     }
     }
 

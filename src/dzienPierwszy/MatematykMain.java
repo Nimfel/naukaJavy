@@ -8,14 +8,16 @@ public class MatematykMain {
         Matematyk blondynka = new Matematyk();
 
 
-        int a = 10;
-        int h = 5;
+        int r = 7;
+        int z = 7*7;
+        int pi = (int) 3.14;
 
-        double multiply = blondynka.multiply(a,h);
+        double multiply1 = blondynka.multiply(r,r);
+        double multiply2 = blondynka.multiply(z,pi);
 
 
-        System.out.println("pole rombu wynosi:");
-        System.out.println(multiply);
+        System.out.println("pole okręgu wynosi:");
+        System.out.println(multiply2);
 
 
 
